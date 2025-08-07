@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.py
+
+# Ignore all icons
+icons/
+
+# Ignore all json
+*.json
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Virtual environment
+venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
