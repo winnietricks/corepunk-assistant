@@ -1,1 +1,1 @@
-run main.exe
+run crafting_assistant.exe
