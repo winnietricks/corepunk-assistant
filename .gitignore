@@ -7,8 +7,14 @@ __pycache__/
 # Ignore all icons
 icons/
 
+# Ignore all assets
+assets/
+
 # Ignore all json
 *.json
+
+# Ignore specific files
+file_version.txt
 
 # Build artifacts
 dist/
